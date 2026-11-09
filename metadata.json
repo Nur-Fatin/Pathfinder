@@ -1,0 +1,6 @@
+{
+  "name": "Pathfinder",
+  "description": "An intelligent decision-making assistant that breaks down choices using structured Pros & Cons, Multi-Option Comparison Matrices, SWOT Analysis, and Cost-Benefit evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
